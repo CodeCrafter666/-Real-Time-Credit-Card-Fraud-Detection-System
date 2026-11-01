@@ -275,3 +275,19 @@ GitHub: https://github.com/CodeCrafter666
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+
+---
+
+## 📸 Project Screenshots
+
+### 1. Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
+### 2. Dataset Upload
+![Dataset Upload](screenshots/dataset-upload.png)
+
+### 3. Manual Fraud Checker
+![Manual Fraud Checker](screenshots/manual-fraud-checker.png)
+
+### 4. Fraud Detection Result
+![Fraud Detection Result](screenshots/fraud-result.png)
